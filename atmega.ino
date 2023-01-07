@@ -1,5 +1,5 @@
 
-#define CUSTOM_DDRB  *((volatile byte*)0x25)
+#define CUSTOM_DDRB  *((volatile byte*)0x24)
 #define CUSTOM_PORTB *((volatile byte*)0x25)
 
 void setup() {
